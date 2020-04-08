@@ -1,0 +1,5 @@
+1. To run the histogram.py file, open cmd or anaconda with python installed.
+2. Go to CS381 directory and Histogram folder. 
+3. type: "py danish_histogram.py Images/ov.jpg" To run over exposed 
+4. type: "py danish_histogram.py Images/un.jpg" To run under exposed
+4. Check Histogram output folder for histogram data.
