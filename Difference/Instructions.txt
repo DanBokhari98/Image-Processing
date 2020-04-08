@@ -1,0 +1,4 @@
+1. To run the dif.py file, open cmd or anaconda with python installed.
+2. Go to CS381 directory and Difference folder. 
+3. type: "py danish_dif.py Images/Full.jpg Images/Test.jpg"
+4. Check Difference Images folder for bin image.
