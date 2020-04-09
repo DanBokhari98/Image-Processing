@@ -18,3 +18,23 @@ Underexposed Images
 Histogram of Underexposed Images:
 
 ![underexposed_color_histogram](https://user-images.githubusercontent.com/25066859/78738400-cee0af80-791f-11ea-807a-0fa7ceec9a5d.png)
+
+
+DIFFERNCE CHECKER
+
+1. Take the full Image of a JPG and an Image of the same dimensions and similar background
+2. Create the Binary image of the difference between the two 
+
+Input:
+
+FULL IMAGE:
+
+![Full](https://user-images.githubusercontent.com/25066859/78829382-3fd1a700-79b4-11ea-8390-e88ddeda68fa.jpg)
+
+Background:
+
+![Test](https://user-images.githubusercontent.com/25066859/78829410-4cee9600-79b4-11ea-86e0-ccb57f64a645.jpg)
+
+OUTPUT BIN IMAGE:
+
+![bin_image](https://user-images.githubusercontent.com/25066859/78829432-5546d100-79b4-11ea-9dee-4e24c2f2f212.png)
